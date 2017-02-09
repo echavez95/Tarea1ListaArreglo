@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486649655 source:c:\users\echavez\documents\estructura de datos\tarea1listaarreglo\tarea1listaarreglo\main.cpp
+	<iostream>
+	<stdlib.h>
+
